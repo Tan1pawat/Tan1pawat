@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an Intern at Asha Company<br>🤝 I’m looking for help with DeepLearning particularly <br>CNNs Model<br>👓 I'm interested in LLM and GenAI<br>🌱 I’m currently learning at KMITL University
+🔭 I’m currently an Intern at Asha Company<br>🤝 🌱 I’m currently learning at KMITL University
 
 
 # 💻 Tech Stack:
