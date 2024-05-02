@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+P'+Tan!;" />
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=60&duration=4000&pause=1000&color=F7AC6D&center=true&vCenter=true&random=false&width=435&lines=Sa+wat+dee+kub;I'm+P'Tan)](https://git.io/typing-svg)
 </h1>
 # 💫 About Me:
 🔭 I’m currently an Intern at Asha Company<br>🤝 🌱 I’m currently learning at KMITL University
