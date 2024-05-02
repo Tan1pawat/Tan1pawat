@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=60&duration=4000&pause=1000&color=F7AC6D&center=true&vCenter=true&random=false&width=435&lines=Sa+wat+dee+kub;I'm+P'Tan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=60&duration=4000&pause=1000&color=F7AC6D&center=true&vCenter=true&random=false&width=600&height=100&lines=Sa+wat+dee+kub;I'm+P'Tan" alt="Typing SVG" /></a>
 # 💫 About Me:
 🔭 I’m currently an Intern at Asha Company<br>🤝 🌱 I’m currently learning at KMITL University
 
