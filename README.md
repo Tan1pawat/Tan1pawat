@@ -1,3 +1,6 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=60&duration=4000&pause=1000&color=F7AC6D&center=true&vCenter=true&random=false&width=600&height=100&lines=Sa+wat+dee+kub;I'm+P'Tan" />
 </h1>
@@ -23,8 +26,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tan1pawat&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Tan1pawat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer />
 </div>
