@@ -9,8 +9,7 @@
 <a href="https://app.daily.dev/pawatyamwong"><img src="https://api.daily.dev/devcards/v2/sxSO5RFdngUlNLhRgi5Pj.png?r=gp7&type=wide" width="652" alt="Pawat Yamwong's Dev Card"/></a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tan1pawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tan1pawat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tan1pawat&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tan1pawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
