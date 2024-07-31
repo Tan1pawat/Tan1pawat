@@ -12,6 +12,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tan1pawat&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tan1pawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 💻 Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,anaconda,angular,react,nextjs,flutter,laravel,nodejs,nestjs,npm,ts,html,css,js,mysql,postgres,postman,docker,redis,firebase,gcp,vscode,md" />
+  </a>
+</p>
 
 </div>
 <div align="center">
