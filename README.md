@@ -15,7 +15,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,pytorch,angular,flutter,laravel,nodejs,nestjs,express,npm,ts,python,mysql,postgres,postman,docker,kubernetes,redis,firebase,gcp,vscode,neovim,md" />
+    <img src="https://skillicons.dev/icons?i=git,pytorch,angular,flutter,laravel,nodejs,nestjs,express,npm,ts,python,go,mysql,postgres,postman,docker,kubernetes,redis,firebase,gcp,vscode,neovim,md" />
   </a>
 </p>
 
