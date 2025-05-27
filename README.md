@@ -6,7 +6,7 @@
 </h1>
 <div align="center">
 
-<a href="https://app.daily.dev/pawatyamwong"><img src="https://api.daily.dev/devcards/v2/sxSO5RFdngUlNLhRgi5Pj.png?r=gp7&type=wide" width="652" alt="Pawat Yamwong's Dev Card"/></a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tan1pawat&theme=dark&hide_border=false)
