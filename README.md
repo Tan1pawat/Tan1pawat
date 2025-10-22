@@ -23,6 +23,3 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer />
 </div>
-<div align="center">
-   <img width=100% src=https://rust-lang.org/static/images/ferris.gif />
-</div>
