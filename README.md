@@ -5,8 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=60&duration=4000&pause=1000&color=F7AC6D&center=true&vCenter=true&random=false&width=600&height=100&lines=Sa+wat+dee+kub;I'm+P'Tan" />
 </h1>
 <div align="center">
+<br>
 
+> Sawatdee kub! I'm a developer driven by the convergence of **Quantitative Finance**, **Web3**, and **AI Automation**.
+> My passion lies in building intelligent, decentralized systems that analyze complex market data, execute automated strategies, and operate securely on-chain.
 
+<br>
+</div>
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tan1pawat&theme=dark&hide_border=false)
